@@ -1,2 +1,26 @@
-# about-me-
-This is a small description about me
+### Hi there 👋
+
+Seeking challenge & passionate about knowledge, I am a quick learner, I am polyvalent and flexible to tasks. I have more then 3 years experience in engineering.
+I am making a career switch to IT and hope to find an exciting opportunity. 
+
+
+
+- 🔭 I’m currently working on improving my skills as a software engineer.
+- 🌱 I’m currently curious about mobile and full-stack development.
+- 👯 I’m looking to collaborate on open source projects.
+
+- 📫 How to reach me:
+
+	
+  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/youcef-abdellahi-90628a130/)
+
+  
+  
+
+### Github Stats
+[![Tarek's Github Stats](https://github-readme-stats.vercel.app/api?username=tarekalabd&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tarekalabd)
+
+### Want to support?
+ 
+Do you find my work to be of a value for you?
+Your feedback is important to me, so please feel free to share your thoughts and suggestions. Thank you for visiting my profile!
