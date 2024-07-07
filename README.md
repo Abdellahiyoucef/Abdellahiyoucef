@@ -17,9 +17,6 @@ I am making a career switch to IT and hope to find an exciting opportunity.
   
   
 
-### Github Stats
-[![Tarek's Github Stats](https://github-readme-stats.vercel.app/api?username=tarekalabd&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tarekalabd)
-
 ### Want to support?
  
 Do you find my work to be of a value for you?
